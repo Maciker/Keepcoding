@@ -18,8 +18,5 @@ def cuentaPalabras(cadena):
 cadena = 'Aqui hay cuatro palabras '
 print (cadena, cuentaPalabras(cadena))
 
-def cuentaCaracteres(cadena):
-    for i in range(len(cadena)):
-
 
 
